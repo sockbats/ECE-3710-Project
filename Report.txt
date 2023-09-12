@@ -1,0 +1,14 @@
+01. Mean: 39.889; Median: 37
+02. Sample Variance: 89.223; Standard Deviation: 9.446
+03. Simple Random Sample: [28, 32, 34, 34, 34, 34, 36, 36, 37, 39, 41, 41, 43, 45, 45, 46, 46, 50, 52, 52]
+   SRS Mean: 40.25; SRS Sample Variance: 48.092; SRS Standard Deviation: 6.935
+04. This random sample does properly represent the entire data. The mean is very similarAnd the variance is much lower, meaning it more accurately represents the data.
+05. Trimmed Means:
+   5%: 39.321
+   10%: 39.264
+   20%: 38.611
+06. First Quartile: 34; Third Quartile: 46
+07. Mode: 34; Median: 37; See Dot Plot.png
+08. See Histogram.png
+09. There is an outlier of 68º, which occurred on March 27, 2022. See Box Plot.png
+10. Based on this data, the temperature during the first week of January would likely range between 30-50ºF, based on the mean of 40 and the standard deviation of 10
